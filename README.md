@@ -1,1 +1,2 @@
-👋 Hi, I’m @Iamyasuomain
+Hi, I’m Iamyasuomain.
+Interest: Cybersecurity, Web Dev, etc...
